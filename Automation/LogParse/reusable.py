@@ -1,3 +1,5 @@
+// This file is created to use the Class created in log_parse_class,py file
+
 from log_parse_class import LogParse 
 
 log_parse = LogParse('log.txt')
